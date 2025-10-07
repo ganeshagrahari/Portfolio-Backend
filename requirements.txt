@@ -1,0 +1,22 @@
+# Core dependencies for RAG Chatbot Backend
+fastapi==0.115.0
+uvicorn[standard]==0.32.1
+python-dotenv==1.0.1
+
+# LangChain and AI (Updated for Python 3.12 compatibility)
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-community==0.3.13
+langchain-core==0.3.28
+openai==1.58.1
+
+# Vector Database
+faiss-cpu==1.12.0
+
+# Document Processing
+pypdf==5.1.0
+python-multipart==0.0.20
+
+# Utilities (Updated for Python 3.12)
+pydantic==2.10.5
+pydantic-settings==2.7.1

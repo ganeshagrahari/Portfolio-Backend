@@ -1,0 +1,94 @@
+GANESH'S PROJECT PORTFOLIO
+
+1. FACE RECOGNITION ATTENDANCE SYSTEM
+Technology Stack: Python, OpenCV, Deep Learning, CNN
+Description: Developed an automated attendance system using facial recognition technology. The system uses Convolutional Neural Networks (CNN) to accurately identify and mark attendance. This project demonstrates expertise in computer vision and deep learning.
+Key Features:
+- Real-time face detection and recognition
+- Automated attendance marking
+- High accuracy facial identification
+- User-friendly interface
+GitHub: https://github.com/ganeshagrahari/Face-Recogniton-Attendance-System
+Status: Completed and deployed
+
+2. CHAT ANALYZER
+Technology Stack: Python, NLP, Streamlit, Natural Language Processing
+Description: Built a comprehensive WhatsApp chat analysis web service that provides insights into chat patterns, user behavior, and conversation statistics. Deployed as a live web service using NLP techniques.
+Key Features:
+- Message frequency analysis
+- User activity patterns
+- Sentiment analysis
+- Word cloud generation
+- Timeline visualization
+Live Demo: https://chat-analyzer-n4q2.onrender.com/
+Status: Live and operational
+
+3. CINE MATCH PRO (Movie Recommender)
+Technology Stack: Python, Machine Learning, Recommendation Systems
+Description: Developed an intelligent movie recommendation system that suggests movies based on user preferences and viewing history. Uses collaborative filtering and content-based filtering techniques.
+Key Features:
+- Personalized movie recommendations
+- Content-based filtering
+- User preference learning
+- Interactive UI
+GitHub: https://github.com/ganeshagrahari/Cine-Match-Pro-Movie-Recommender
+Status: Completed
+
+4. RELIANCE SALES REPORT
+Technology Stack: Power BI, Data Analysis, Business Intelligence
+Description: Created an interactive sales analysis dashboard for Reliance using Power BI. The dashboard provides comprehensive insights into sales performance, trends, and key metrics.
+Key Features:
+- Interactive visualizations
+- Sales trend analysis
+- Performance metrics
+- Regional analysis
+GitHub: https://github.com/ganeshagrahari/Reliance-Sales-Report-PowerBI
+Status: Completed
+
+5. MY DEEPSEEK AI ASSISTANT
+Technology Stack: Python, Ollama, AI, Desktop Application
+Description: Developed a desktop AI assistant using Ollama for local AI inference. The assistant can perform various tasks and answer questions without requiring cloud connectivity.
+Key Features:
+- Local AI inference
+- Privacy-focused design
+- Voice interaction
+- Task automation
+GitHub: https://github.com/ganeshagrahari/My-DeepSeek
+Status: Completed
+
+6. SMS/EMAIL SPAM CLASSIFIER
+Technology Stack: Python, Machine Learning, Naive Bayes, NLP
+Description: Built a spam detection system using Naive Bayes algorithm to classify SMS and email messages as spam or legitimate. Achieved high accuracy in spam detection.
+Key Features:
+- Text preprocessing and feature extraction
+- Naive Bayes classification
+- High accuracy spam detection
+- Real-time classification
+GitHub: https://github.com/ganeshagrahari/SMS-Classifier-Model
+Status: Completed
+
+7. PORTFOLIO WEBSITE
+Technology Stack: Next.js, React, TailwindCSS, Vercel
+Description: Designed and developed a modern, responsive portfolio website using Next.js framework. The site showcases projects, skills, and professional experience with a beautiful UI/UX.
+Key Features:
+- Modern, responsive design
+- Dark mode support
+- Project showcase
+- Contact form integration
+- Fast performance
+Live Site: https://ganesh-portfolio-site.vercel.app/
+Status: Live and continuously updated
+
+8. FIFA WORLD CUP ANALYSIS
+Technology Stack: Power BI, Data Analysis, Sports Analytics
+Description: Comprehensive analysis of FIFA World Cup data using Power BI, providing insights into team performance, player statistics, and tournament trends.
+Key Features:
+- Team performance analysis
+- Player statistics visualization
+- Historical trend analysis
+- Interactive dashboards
+GitHub: https://github.com/ganeshagrahari/FIFA-World-Cup-Analysis
+Status: Completed
+
+PROJECT APPROACH:
+All projects follow best practices in software development, including version control with Git, comprehensive documentation, and deployment considerations. Each project demonstrates practical application of theoretical knowledge and problem-solving skills.
